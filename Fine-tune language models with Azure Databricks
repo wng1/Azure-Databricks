@@ -49,5 +49,10 @@ job_id = response.id
  print("Job ID:", response.id)
  print("Status:", response.status)
 
+####
+response = client.file_tuning.jobs.retrieve(job_id)
+
+print(response.model_dump_json(indent=2))
+fine_tuned_model = response.fine_tuned_model
 
 
