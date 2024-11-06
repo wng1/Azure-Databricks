@@ -1,0 +1,5 @@
+Fine-tuning helps the LLM to improve on accuracy and relevance, as well as performance whilst saving on resources, time compared to training from scratch or beginning.
+
+This boosts the performance in tasks such as sentiment analysis, text generation or understanding specific domain languages.
+
+Fine-tuning lets you create models that fit your specific needs. As a result, your model is more accurate and relevant and you save on computational resources and time.
