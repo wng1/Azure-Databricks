@@ -56,3 +56,6 @@ print(response.model_dump_json(indent=2))
 fine_tuned_model = response.fine_tuned_model
 
 
+https://microsoftlearning.github.io/mslearn-databricks/Instructions/Exercises/AI-04-Fine-tune-models.html
+
+
