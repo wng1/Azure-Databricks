@@ -1,0 +1,10 @@
+https://learn.microsoft.com/en-gb/training/modules/responsible-language-models-azure-databricks/
+
+- Understand the responsible AI principles for implementation, ethical considerations, and how to mitigate risks.
+
+- Based on identified risks, learn how to implement key security tooling for language models.
+
+
+AI development and deployment are ETA (ethical, transparent and accountable). Databricks helps to monitor, manage and fine-tune LLM. Responsible AI involves detecting bias, following data privacy rules. 
+AI principles throughout LLM lifecycle, AI systems to align with societal values and regulations while getting the most out of these advanced models.
+
